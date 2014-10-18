@@ -3,7 +3,7 @@ DAoC-Auto-Twister
 
 Play a Paladin class on DAoC and twist your chants automatically while running.
 
-Compile in Eclipse, no librarys needed.
+Compile in Eclipse or export as Runnable JAR file, no additional librarys needed.
 
 To use:
 After starting program, set the chants you want to use.  You can enter keys 0-9 and also use modifiers of ctrl or alt.  Enter as many keys as you prefer (up to the max of 10). and then press 'Start twisting' when ready.
