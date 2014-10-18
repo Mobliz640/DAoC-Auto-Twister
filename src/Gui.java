@@ -283,7 +283,7 @@ public class Gui implements KeyListener{
 	public void keyPressed(KeyEvent arg0) {
 		
 		if(arg0.getExtendedKeyCode() >= KeyEvent.VK_0 && arg0.getExtendedKeyCode() <= KeyEvent.VK_9 || 
-				arg0.getExtendedKeyCode() == KeyEvent.VK_BACK_SPACE || 
+				arg0.getExtendedKeyCode() == KeyEvent.VK_BACK_SPACE || arg0.getExtendedKeyCode() == KeyEvent.VK_DELETE || 
 				arg0.getExtendedKeyCode() >= KeyEvent.VK_NUMPAD0 && arg0.getExtendedKeyCode() <= KeyEvent.VK_NUMPAD9)
 		{
 			setKey(arg0);
@@ -355,7 +355,7 @@ public class Gui implements KeyListener{
 		 {
 			text += key;
 		 }
-		 if(e.getExtendedKeyCode() == KeyEvent.VK_BACK_SPACE)
+		 if(e.getExtendedKeyCode() == KeyEvent.VK_BACK_SPACE || e.getExtendedKeyCode() == KeyEvent.VK_DELETE)
 		 {
 			 text = "";
 		 }
