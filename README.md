@@ -10,3 +10,5 @@ After starting program, set the chants you want to use.  You can enter keys 0-9 
 
 WARNING: When you start twisting it will start spamming those keys on the selected window, until it is turned off.  When in game, press Enter to easily 'pause' the twisting.
 Alt-tab out and click stop twisting to end the program.
+
+<img src="http://s24.postimg.org/5lmmeegvp/autotwister.png></img>
