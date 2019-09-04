@@ -1,7 +1,7 @@
 DAoC-Auto-Twister
 =================
 
-Play a Paladin class on DAoC and twist your chants automatically while running.
+Windows desktop app that allows you to play a Paladin class on Dark Age of Camelot MMORPG and twist your chants automatically without having to tire out your fingers.
 
 Compile in Eclipse or export as Runnable JAR file, no additional librarys needed.
 
